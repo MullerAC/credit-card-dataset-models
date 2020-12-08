@@ -29,3 +29,31 @@ Final Model:
 - test_precision: 0.4895833333333333
 - train_recall: 0.5725880201188843
 - test_recall: 0.5759803921568627
+
+## K Nearest Neightbors
+Baseline Model: 
+- train_accuracy: 0.8119111111111111
+- test_accuracy: 0.7518666666666667
+- train_f1: 0.4337704040674338
+- test_f1: 0.23194387123400742
+- train_precision: 0.6562753036437247
+- test_precision: 0.3552465233881163
+- train_recall: 0.3239408473221423
+- test_recall: 0.1721813725490196
+
+Iterative Modeling Process:
+- cleaned data
+- created dummy variables
+- min-max transformed variables
+- log-transformed variables
+- applied SMOTE to address class imbalance
+
+Final Model:
+- train_accuracy: 0.8606824417009602
+- test_accuracy: 0.6646666666666666
+- train_f1: 0.8717881282381718
+- test_f1: 0.434958436306448
+- train_precision: 0.8074243679056852
+- test_precision: 0.34338417878680383
+- train_recall: 0.9473022405121171
+- test_recall: 0.5931372549019608
