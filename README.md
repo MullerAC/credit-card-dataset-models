@@ -8,6 +8,7 @@ Baseline Model:
 - test_f1: 0.0012247397428046538
 - test_precision: 1.0
 - test_recall: 0.0006127450980392157
+
 Final Model:
 - test_accuracy: 0.7770666666666667
 - test_f1: 0.5292792792792792
