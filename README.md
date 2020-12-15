@@ -53,3 +53,16 @@ Final Model:
 - test_f1: 0.41473951715374846
 - test_precision: 0.3543204515848893
 - test_recall: 0.5
+
+## XGBoost with Grid Search
+Baseline Model: 
+- test_accuracy: 0.8262666666666667
+- test_f1: 0.4790083966413434
+- test_precision: 0.6892980437284235
+- test_recall: 0.36703431372549017
+
+Final Model:
+- test_accuracy: 0.8050666666666667
+- test_f1: 0.48119233498935415
+- test_precision: 0.5716694772344013
+- test_recall: 0.41544117647058826
